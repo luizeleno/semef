@@ -39,7 +39,7 @@ permalink: /programa/
         </button>
         <!-- Modal -->
         <div class="modal fade" id="{{evento.label}}{{dia.data}}{{programa.horario}}" tabindex="-1" aria-labelledby="{{evento.label}}{{dia.data}}{{programa.horario}}Label" aria-hidden="true">
-          <div class="modal-dialog">
+          <div class="modal-dialog modal-xl">
             <div class="modal-content">
               <div class="modal-header">
                 <h5 class="modal-title" id="{{programa.data}}{{programa.horario}}Label">{{evento.nome}}</h5>

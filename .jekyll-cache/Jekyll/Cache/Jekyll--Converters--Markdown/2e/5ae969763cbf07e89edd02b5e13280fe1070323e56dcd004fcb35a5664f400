@@ -1,4 +1,4 @@
-I"V<div class="container-md my-2">
+I"NZ<div class="container-md my-2">
 
 <div class="col border m-2 bg-light">
 
@@ -36,7 +36,7 @@ Seg,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="abertura2021-09-2708-10h" tabindex="-1" aria-labelledby="abertura2021-09-2708-10hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="abertura2021-09-2708-10h" tabindex="-1" aria-labelledby="abertura2021-09-2708-10hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -55,7 +55,7 @@ Seg,
               
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
@@ -108,7 +108,7 @@ Seg,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="einstein2021-09-2710-12h" tabindex="-1" aria-labelledby="einstein2021-09-2710-12hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="einstein2021-09-2710-12h" tabindex="-1" aria-labelledby="einstein2021-09-2710-12hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -123,9 +123,11 @@ Seg,
 
               <!-- link para o currículo do palestrante -->
               
+                <p><a href="https://pt.wikipedia.org/wiki/Albert_Einstein" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
+              
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
@@ -181,7 +183,7 @@ Ter,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="abertura2021-09-2808-10h" tabindex="-1" aria-labelledby="abertura2021-09-2808-10hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="abertura2021-09-2808-10h" tabindex="-1" aria-labelledby="abertura2021-09-2808-10hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -200,7 +202,7 @@ Ter,
               
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
@@ -253,7 +255,7 @@ Ter,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="einstein2021-09-2810-12h" tabindex="-1" aria-labelledby="einstein2021-09-2810-12hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="einstein2021-09-2810-12h" tabindex="-1" aria-labelledby="einstein2021-09-2810-12hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -268,9 +270,11 @@ Ter,
 
               <!-- link para o currículo do palestrante -->
               
+                <p><a href="https://pt.wikipedia.org/wiki/Albert_Einstein" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
+              
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
@@ -326,7 +330,7 @@ Qua,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="abertura2021-09-2908-10h" tabindex="-1" aria-labelledby="abertura2021-09-2908-10hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="abertura2021-09-2908-10h" tabindex="-1" aria-labelledby="abertura2021-09-2908-10hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -345,7 +349,7 @@ Qua,
               
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
@@ -398,7 +402,7 @@ Qua,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="einstein2021-09-2910-12h" tabindex="-1" aria-labelledby="einstein2021-09-2910-12hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="einstein2021-09-2910-12h" tabindex="-1" aria-labelledby="einstein2021-09-2910-12hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -413,9 +417,11 @@ Qua,
 
               <!-- link para o currículo do palestrante -->
               
+                <p><a href="https://pt.wikipedia.org/wiki/Albert_Einstein" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
+              
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
@@ -471,7 +477,7 @@ Qui,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="abertura2021-09-3008-10h" tabindex="-1" aria-labelledby="abertura2021-09-3008-10hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="abertura2021-09-3008-10h" tabindex="-1" aria-labelledby="abertura2021-09-3008-10hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -490,7 +496,7 @@ Qui,
               
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
@@ -543,7 +549,7 @@ Qui,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="einstein2021-09-3010-12h" tabindex="-1" aria-labelledby="einstein2021-09-3010-12hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="einstein2021-09-3010-12h" tabindex="-1" aria-labelledby="einstein2021-09-3010-12hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -558,9 +564,11 @@ Qui,
 
               <!-- link para o currículo do palestrante -->
               
+                <p><a href="https://pt.wikipedia.org/wiki/Albert_Einstein" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
+              
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
@@ -616,7 +624,7 @@ Sex,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="abertura2021-10-0108-10h" tabindex="-1" aria-labelledby="abertura2021-10-0108-10hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="abertura2021-10-0108-10h" tabindex="-1" aria-labelledby="abertura2021-10-0108-10hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -635,7 +643,7 @@ Sex,
               
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
@@ -688,7 +696,7 @@ Sex,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="einstein2021-10-0110-12h" tabindex="-1" aria-labelledby="einstein2021-10-0110-12hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="einstein2021-10-0110-12h" tabindex="-1" aria-labelledby="einstein2021-10-0110-12hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -703,9 +711,11 @@ Sex,
 
               <!-- link para o currículo do palestrante -->
               
+                <p><a href="https://pt.wikipedia.org/wiki/Albert_Einstein" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
+              
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
@@ -758,7 +768,7 @@ Sex,
         Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="encerramento2021-10-0116-18h" tabindex="-1" aria-labelledby="encerramento2021-10-0116-18hLabel" aria-hidden="true">
+        <div class="modal modal-lg fade" id="encerramento2021-10-0116-18h" tabindex="-1" aria-labelledby="encerramento2021-10-0116-18hLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -777,7 +787,7 @@ Sex,
               
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
             </div>
           </div>
         </div>
