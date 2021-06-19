@@ -1,0 +1,934 @@
+I"�{<div class="container-md my-2">
+
+<div class="col border m-2 bg-light">
+
+
+
+<div class="alert bg-success bg-gradient text-white" role="alert">
+  <b>
+Seg,
+  
+27/09/2021</b>
+</div>
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/CAEF.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">CAEF e Prof. Luiz T. F. Eleno</h4>
+        <p><i>EEL/USP</i></p>
+        <h5>08-10h</h5>
+        <h5>Abertura</h5>
+        <p>Primeira parte do resumo (aparecerá na página da programação)…</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#abertura2021-09-2708-10h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="abertura2021-09-2708-10h" tabindex="-1" aria-labelledby="abertura2021-09-2708-10hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="08-10hLabel">CAEF e Prof. Luiz T. F. Eleno</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Abertura</h5>
+              <p>Primeira parte do resumo (aparecerá na página da programação)…</p>
+
+<!-- more -->
+
+<p>Continuação do resumo (aparecerá quando abrir a janela)</p>
+
+<p><strong>CV</strong></p>
+
+<p>Sou de São Paulo, capital, nascido em 1976. Concluí minha graduação em
+Engenharia Metalúrgica pela Escola Politécnica (EP) da Universidade de
+São Paulo (USP), em 2001, e logo engatilhei o mestrado na mesma insti-
+tuição, com a dissertação “Incorporação do Volume ao Método Variaci-
+onal de Clusters,” defendida em 2003. Depois disso, embarquei para a
+Alemanha, onde passei quatro anos e meio ensopado em cerveja e traba-
+lhando no Max-Planck-Institut für Eisenforschung (Instituto Max Planck de
+Pesquisa em Ligas Ferrosas), na cidade de Düsseldorf, de 2003 a 2008. Lá
+caí (literalmente) do trem, quebrei a perna direita, onde tenho até hoje três
+pinos e uma placa metálica — selando minha simbiose com a Metalurgia.
+Logo em seguida, e ainda de muletas, conheci o amor da minha vida,
+também paulistana, coincidências. Fomos juntos para Toulouse, França,
+por mais seis meses, onde fui pesquisador convidado do Centre Interu-
+niversitaire de Recherche et d’Ingénierie des Matériaux (CIRIMAT) da Uni-
+versité de Toulouse. Voltamos, finalmente, ao Brasil, onde defendi minha
+tese de doutorado com o título “Dados empíricos e ab initio no método
+CALPHAD: os sistemas FeCrMoC e NbNiSi” em 2012, na EP-USP. Logo
+em seguida, dediquei-me ao Pós-Doutorado em Física pelo Instituto de Fí-
+sica (IF) da USP até 2014. Concluída mais essa etapa, começaram minhas
+atividades como Professor Doutor junto ao Departamento de Engenharia
+de Materiais (Demar) da Escola de Engenharia de Lorena (EEL) da USP, na cidade de Lorena, interior do
+estado de São Paulo, onde amarrei finalmente minha mula, que desamarro às vezes para saborear cerveja
+mundo afora, como na foto ao lado, em Oradea, Romênia.1 Quando não estou me dedicando a essas ativi-
+dades, faço pesquisas em cálculo de propriedades eletrônicas e térmicas de materiais metálicos e ministro
+aulas às turmas de Engenharia de Materiais e Engenharia Física da EEL, nas disciplinas de Termodinâmica,
+Física Estatística, Mecânica Quântica, Computação Científica e Métodos Computacionais.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/einstein.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">Albert Einstein</h4>
+        <p><i>Princeton</i></p>
+        <h5>10-12h</h5>
+        <h5>Teoria da Relatividade</h5>
+        <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#einstein2021-09-2710-12h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="einstein2021-09-2710-12h" tabindex="-1" aria-labelledby="einstein2021-09-2710-12hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="10-12hLabel">Albert Einstein</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Teoria da Relatividade</h5>
+              <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+<p>Aceita também html! <b>negrito</b>, <i>itálico</i>, etc.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="alert bg-success bg-gradient text-white" role="alert">
+  <b>
+Ter,
+  
+28/09/2021</b>
+</div>
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/CAEF.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">CAEF e Prof. Luiz T. F. Eleno</h4>
+        <p><i>EEL/USP</i></p>
+        <h5>08-10h</h5>
+        <h5>Abertura</h5>
+        <p>Primeira parte do resumo (aparecerá na página da programação)…</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#abertura2021-09-2808-10h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="abertura2021-09-2808-10h" tabindex="-1" aria-labelledby="abertura2021-09-2808-10hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="08-10hLabel">CAEF e Prof. Luiz T. F. Eleno</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Abertura</h5>
+              <p>Primeira parte do resumo (aparecerá na página da programação)…</p>
+
+<!-- more -->
+
+<p>Continuação do resumo (aparecerá quando abrir a janela)</p>
+
+<p><strong>CV</strong></p>
+
+<p>Sou de São Paulo, capital, nascido em 1976. Concluí minha graduação em
+Engenharia Metalúrgica pela Escola Politécnica (EP) da Universidade de
+São Paulo (USP), em 2001, e logo engatilhei o mestrado na mesma insti-
+tuição, com a dissertação “Incorporação do Volume ao Método Variaci-
+onal de Clusters,” defendida em 2003. Depois disso, embarquei para a
+Alemanha, onde passei quatro anos e meio ensopado em cerveja e traba-
+lhando no Max-Planck-Institut für Eisenforschung (Instituto Max Planck de
+Pesquisa em Ligas Ferrosas), na cidade de Düsseldorf, de 2003 a 2008. Lá
+caí (literalmente) do trem, quebrei a perna direita, onde tenho até hoje três
+pinos e uma placa metálica — selando minha simbiose com a Metalurgia.
+Logo em seguida, e ainda de muletas, conheci o amor da minha vida,
+também paulistana, coincidências. Fomos juntos para Toulouse, França,
+por mais seis meses, onde fui pesquisador convidado do Centre Interu-
+niversitaire de Recherche et d’Ingénierie des Matériaux (CIRIMAT) da Uni-
+versité de Toulouse. Voltamos, finalmente, ao Brasil, onde defendi minha
+tese de doutorado com o título “Dados empíricos e ab initio no método
+CALPHAD: os sistemas FeCrMoC e NbNiSi” em 2012, na EP-USP. Logo
+em seguida, dediquei-me ao Pós-Doutorado em Física pelo Instituto de Fí-
+sica (IF) da USP até 2014. Concluída mais essa etapa, começaram minhas
+atividades como Professor Doutor junto ao Departamento de Engenharia
+de Materiais (Demar) da Escola de Engenharia de Lorena (EEL) da USP, na cidade de Lorena, interior do
+estado de São Paulo, onde amarrei finalmente minha mula, que desamarro às vezes para saborear cerveja
+mundo afora, como na foto ao lado, em Oradea, Romênia.1 Quando não estou me dedicando a essas ativi-
+dades, faço pesquisas em cálculo de propriedades eletrônicas e térmicas de materiais metálicos e ministro
+aulas às turmas de Engenharia de Materiais e Engenharia Física da EEL, nas disciplinas de Termodinâmica,
+Física Estatística, Mecânica Quântica, Computação Científica e Métodos Computacionais.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/einstein.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">Albert Einstein</h4>
+        <p><i>Princeton</i></p>
+        <h5>10-12h</h5>
+        <h5>Teoria da Relatividade</h5>
+        <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#einstein2021-09-2810-12h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="einstein2021-09-2810-12h" tabindex="-1" aria-labelledby="einstein2021-09-2810-12hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="10-12hLabel">Albert Einstein</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Teoria da Relatividade</h5>
+              <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+<p>Aceita também html! <b>negrito</b>, <i>itálico</i>, etc.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="alert bg-success bg-gradient text-white" role="alert">
+  <b>
+Qua,
+  
+29/09/2021</b>
+</div>
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/CAEF.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">CAEF e Prof. Luiz T. F. Eleno</h4>
+        <p><i>EEL/USP</i></p>
+        <h5>08-10h</h5>
+        <h5>Abertura</h5>
+        <p>Primeira parte do resumo (aparecerá na página da programação)…</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#abertura2021-09-2908-10h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="abertura2021-09-2908-10h" tabindex="-1" aria-labelledby="abertura2021-09-2908-10hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="08-10hLabel">CAEF e Prof. Luiz T. F. Eleno</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Abertura</h5>
+              <p>Primeira parte do resumo (aparecerá na página da programação)…</p>
+
+<!-- more -->
+
+<p>Continuação do resumo (aparecerá quando abrir a janela)</p>
+
+<p><strong>CV</strong></p>
+
+<p>Sou de São Paulo, capital, nascido em 1976. Concluí minha graduação em
+Engenharia Metalúrgica pela Escola Politécnica (EP) da Universidade de
+São Paulo (USP), em 2001, e logo engatilhei o mestrado na mesma insti-
+tuição, com a dissertação “Incorporação do Volume ao Método Variaci-
+onal de Clusters,” defendida em 2003. Depois disso, embarquei para a
+Alemanha, onde passei quatro anos e meio ensopado em cerveja e traba-
+lhando no Max-Planck-Institut für Eisenforschung (Instituto Max Planck de
+Pesquisa em Ligas Ferrosas), na cidade de Düsseldorf, de 2003 a 2008. Lá
+caí (literalmente) do trem, quebrei a perna direita, onde tenho até hoje três
+pinos e uma placa metálica — selando minha simbiose com a Metalurgia.
+Logo em seguida, e ainda de muletas, conheci o amor da minha vida,
+também paulistana, coincidências. Fomos juntos para Toulouse, França,
+por mais seis meses, onde fui pesquisador convidado do Centre Interu-
+niversitaire de Recherche et d’Ingénierie des Matériaux (CIRIMAT) da Uni-
+versité de Toulouse. Voltamos, finalmente, ao Brasil, onde defendi minha
+tese de doutorado com o título “Dados empíricos e ab initio no método
+CALPHAD: os sistemas FeCrMoC e NbNiSi” em 2012, na EP-USP. Logo
+em seguida, dediquei-me ao Pós-Doutorado em Física pelo Instituto de Fí-
+sica (IF) da USP até 2014. Concluída mais essa etapa, começaram minhas
+atividades como Professor Doutor junto ao Departamento de Engenharia
+de Materiais (Demar) da Escola de Engenharia de Lorena (EEL) da USP, na cidade de Lorena, interior do
+estado de São Paulo, onde amarrei finalmente minha mula, que desamarro às vezes para saborear cerveja
+mundo afora, como na foto ao lado, em Oradea, Romênia.1 Quando não estou me dedicando a essas ativi-
+dades, faço pesquisas em cálculo de propriedades eletrônicas e térmicas de materiais metálicos e ministro
+aulas às turmas de Engenharia de Materiais e Engenharia Física da EEL, nas disciplinas de Termodinâmica,
+Física Estatística, Mecânica Quântica, Computação Científica e Métodos Computacionais.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/einstein.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">Albert Einstein</h4>
+        <p><i>Princeton</i></p>
+        <h5>10-12h</h5>
+        <h5>Teoria da Relatividade</h5>
+        <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#einstein2021-09-2910-12h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="einstein2021-09-2910-12h" tabindex="-1" aria-labelledby="einstein2021-09-2910-12hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="10-12hLabel">Albert Einstein</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Teoria da Relatividade</h5>
+              <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+<p>Aceita também html! <b>negrito</b>, <i>itálico</i>, etc.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="alert bg-success bg-gradient text-white" role="alert">
+  <b>
+Qui,
+  
+30/09/2021</b>
+</div>
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/CAEF.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">CAEF e Prof. Luiz T. F. Eleno</h4>
+        <p><i>EEL/USP</i></p>
+        <h5>08-10h</h5>
+        <h5>Abertura</h5>
+        <p>Primeira parte do resumo (aparecerá na página da programação)…</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#abertura2021-09-3008-10h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="abertura2021-09-3008-10h" tabindex="-1" aria-labelledby="abertura2021-09-3008-10hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="08-10hLabel">CAEF e Prof. Luiz T. F. Eleno</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Abertura</h5>
+              <p>Primeira parte do resumo (aparecerá na página da programação)…</p>
+
+<!-- more -->
+
+<p>Continuação do resumo (aparecerá quando abrir a janela)</p>
+
+<p><strong>CV</strong></p>
+
+<p>Sou de São Paulo, capital, nascido em 1976. Concluí minha graduação em
+Engenharia Metalúrgica pela Escola Politécnica (EP) da Universidade de
+São Paulo (USP), em 2001, e logo engatilhei o mestrado na mesma insti-
+tuição, com a dissertação “Incorporação do Volume ao Método Variaci-
+onal de Clusters,” defendida em 2003. Depois disso, embarquei para a
+Alemanha, onde passei quatro anos e meio ensopado em cerveja e traba-
+lhando no Max-Planck-Institut für Eisenforschung (Instituto Max Planck de
+Pesquisa em Ligas Ferrosas), na cidade de Düsseldorf, de 2003 a 2008. Lá
+caí (literalmente) do trem, quebrei a perna direita, onde tenho até hoje três
+pinos e uma placa metálica — selando minha simbiose com a Metalurgia.
+Logo em seguida, e ainda de muletas, conheci o amor da minha vida,
+também paulistana, coincidências. Fomos juntos para Toulouse, França,
+por mais seis meses, onde fui pesquisador convidado do Centre Interu-
+niversitaire de Recherche et d’Ingénierie des Matériaux (CIRIMAT) da Uni-
+versité de Toulouse. Voltamos, finalmente, ao Brasil, onde defendi minha
+tese de doutorado com o título “Dados empíricos e ab initio no método
+CALPHAD: os sistemas FeCrMoC e NbNiSi” em 2012, na EP-USP. Logo
+em seguida, dediquei-me ao Pós-Doutorado em Física pelo Instituto de Fí-
+sica (IF) da USP até 2014. Concluída mais essa etapa, começaram minhas
+atividades como Professor Doutor junto ao Departamento de Engenharia
+de Materiais (Demar) da Escola de Engenharia de Lorena (EEL) da USP, na cidade de Lorena, interior do
+estado de São Paulo, onde amarrei finalmente minha mula, que desamarro às vezes para saborear cerveja
+mundo afora, como na foto ao lado, em Oradea, Romênia.1 Quando não estou me dedicando a essas ativi-
+dades, faço pesquisas em cálculo de propriedades eletrônicas e térmicas de materiais metálicos e ministro
+aulas às turmas de Engenharia de Materiais e Engenharia Física da EEL, nas disciplinas de Termodinâmica,
+Física Estatística, Mecânica Quântica, Computação Científica e Métodos Computacionais.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/einstein.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">Albert Einstein</h4>
+        <p><i>Princeton</i></p>
+        <h5>10-12h</h5>
+        <h5>Teoria da Relatividade</h5>
+        <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#einstein2021-09-3010-12h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="einstein2021-09-3010-12h" tabindex="-1" aria-labelledby="einstein2021-09-3010-12hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="10-12hLabel">Albert Einstein</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Teoria da Relatividade</h5>
+              <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+<p>Aceita também html! <b>negrito</b>, <i>itálico</i>, etc.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="alert bg-success bg-gradient text-white" role="alert">
+  <b>
+Sex,
+
+01/10/2021</b>
+</div>
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/CAEF.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">CAEF e Prof. Luiz T. F. Eleno</h4>
+        <p><i>EEL/USP</i></p>
+        <h5>08-10h</h5>
+        <h5>Abertura</h5>
+        <p>Primeira parte do resumo (aparecerá na página da programação)…</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#abertura2021-10-0108-10h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="abertura2021-10-0108-10h" tabindex="-1" aria-labelledby="abertura2021-10-0108-10hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="08-10hLabel">CAEF e Prof. Luiz T. F. Eleno</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Abertura</h5>
+              <p>Primeira parte do resumo (aparecerá na página da programação)…</p>
+
+<!-- more -->
+
+<p>Continuação do resumo (aparecerá quando abrir a janela)</p>
+
+<p><strong>CV</strong></p>
+
+<p>Sou de São Paulo, capital, nascido em 1976. Concluí minha graduação em
+Engenharia Metalúrgica pela Escola Politécnica (EP) da Universidade de
+São Paulo (USP), em 2001, e logo engatilhei o mestrado na mesma insti-
+tuição, com a dissertação “Incorporação do Volume ao Método Variaci-
+onal de Clusters,” defendida em 2003. Depois disso, embarquei para a
+Alemanha, onde passei quatro anos e meio ensopado em cerveja e traba-
+lhando no Max-Planck-Institut für Eisenforschung (Instituto Max Planck de
+Pesquisa em Ligas Ferrosas), na cidade de Düsseldorf, de 2003 a 2008. Lá
+caí (literalmente) do trem, quebrei a perna direita, onde tenho até hoje três
+pinos e uma placa metálica — selando minha simbiose com a Metalurgia.
+Logo em seguida, e ainda de muletas, conheci o amor da minha vida,
+também paulistana, coincidências. Fomos juntos para Toulouse, França,
+por mais seis meses, onde fui pesquisador convidado do Centre Interu-
+niversitaire de Recherche et d’Ingénierie des Matériaux (CIRIMAT) da Uni-
+versité de Toulouse. Voltamos, finalmente, ao Brasil, onde defendi minha
+tese de doutorado com o título “Dados empíricos e ab initio no método
+CALPHAD: os sistemas FeCrMoC e NbNiSi” em 2012, na EP-USP. Logo
+em seguida, dediquei-me ao Pós-Doutorado em Física pelo Instituto de Fí-
+sica (IF) da USP até 2014. Concluída mais essa etapa, começaram minhas
+atividades como Professor Doutor junto ao Departamento de Engenharia
+de Materiais (Demar) da Escola de Engenharia de Lorena (EEL) da USP, na cidade de Lorena, interior do
+estado de São Paulo, onde amarrei finalmente minha mula, que desamarro às vezes para saborear cerveja
+mundo afora, como na foto ao lado, em Oradea, Romênia.1 Quando não estou me dedicando a essas ativi-
+dades, faço pesquisas em cálculo de propriedades eletrônicas e térmicas de materiais metálicos e ministro
+aulas às turmas de Engenharia de Materiais e Engenharia Física da EEL, nas disciplinas de Termodinâmica,
+Física Estatística, Mecânica Quântica, Computação Científica e Métodos Computacionais.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/einstein.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">Albert Einstein</h4>
+        <p><i>Princeton</i></p>
+        <h5>10-12h</h5>
+        <h5>Teoria da Relatividade</h5>
+        <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#einstein2021-10-0110-12h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="einstein2021-10-0110-12h" tabindex="-1" aria-labelledby="einstein2021-10-0110-12hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="10-12hLabel">Albert Einstein</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Teoria da Relatividade</h5>
+              <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+<p>Aceita também html! <b>negrito</b>, <i>itálico</i>, etc.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img src="/semef/img/eventos/CAEF.jpg" class="card-img-top" style="object-fit: contain;" />
+    </div>
+    <div class="col-md-9">
+      <div class="card-body">
+        <h4 class="card-title">CAEF e Prof. Luiz T. F. Eleno</h4>
+        <p><i>EEL/USP</i></p>
+        <h5>16-18h</h5>
+        <h5>Encerramento</h5>
+        <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#encerramento2021-10-0116-18h">
+        Launch demo modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="encerramento2021-10-0116-18h" tabindex="-1" aria-labelledby="encerramento2021-10-0116-18hLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="16-18hLabel">CAEF e Prof. Luiz T. F. Eleno</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+            <div class="modal-body">
+              <h5>Encerramento</h5>
+              <p>Resumo da apresentação - aceita formatação markdown! <strong>negrito</strong>, <em>itálico</em>, etc.</p>
+
+<p>Aceita também html! <b>negrito</b>, <i>itálico</i>, etc.</p>
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+:ET

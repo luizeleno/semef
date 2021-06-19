@@ -1,0 +1,48 @@
+-
+  data: 2021-09-27
+  programacao:
+    -
+      horario: 08-10h
+      evento: abertura
+    -
+      horario: 10-12h
+      evento: einstein
+-
+  data: 2021-09-28
+  programacao:
+    -
+      horario: 08-10h
+      evento: abertura
+    -
+      horario: 10-12h
+      evento: einstein
+-
+  data: 2021-09-29
+  programacao:
+    -
+      horario: 08-10h
+      evento: abertura
+    -
+      horario: 10-12h
+      evento: einstein
+-
+  data: 2021-09-30
+  programacao:
+    -
+      horario: 08-10h
+      evento: abertura
+    -
+      horario: 10-12h
+      evento: einstein
+-
+  data: 2021-10-01
+  programacao:
+    -
+      horario: 08-10h
+      evento: abertura
+    -
+      horario: 10-12h
+      evento: einstein
+    -
+      horario: 16-18h
+      evento: encerramento

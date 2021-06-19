@@ -1,0 +1,7 @@
+I"T<p>Primeiro parágrafo do resumo (aparecerá na página da programação)</p>
+
+<p>Continuação do resumo (aparecerá quando abrir a janela)</p>
+
+<!-- link para o currículo do palestrante -->
+<p><a href="https://computeel.org/computeel/" class="btn btn-primary" tabindex="-1" role="button" aria-disabled="true">Sobre o palestrante</a></p>
+:ET

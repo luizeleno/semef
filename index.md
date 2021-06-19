@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "SEMEF 2021"
+title: "VIII Semana de Engenharia Física"
 ---
 
-a

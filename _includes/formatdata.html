@@ -1,0 +1,9 @@
+{% assign w = include.data | date: "%-w" %}
+{% case w %}
+  {% when '1' %}Seg,
+  {% when '2' %}Ter,
+  {% when '3' %}Qua,
+  {% when '4' %}Qui,
+  {% when '5' %}Sex,
+{% endcase %}
+{{ include.data | date: "%d/%m/%Y" }}
