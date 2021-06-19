@@ -4,6 +4,7 @@ nome: CAEF e Prof. Luiz T. F. Eleno
 titulo: Encerramento
 instituicao: EEL/USP
 img: CAEF.jpg
+link: "https://computeel.org/computeel/"
 ---
 
 Resumo da apresentação - aceita formatação markdown! **negrito**, *itálico*, etc.

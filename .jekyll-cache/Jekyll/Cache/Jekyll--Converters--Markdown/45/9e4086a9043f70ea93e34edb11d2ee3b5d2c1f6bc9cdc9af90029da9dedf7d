@@ -1,58 +1,4 @@
-<!doctype html>
-<html lang="pt-br">
-
-<head>
-    <meta charset="utf-8">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-    <link href="/semef/css/style.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-    <div class="fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark bg-gradient m-0 p-0">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="/semef/">SEMEF</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    
-                    <li class="nav-item"><a class="nav-link active" aria-current="page" href="/semef/programa/">Programação</a></li>
-                    
-                    <li class="nav-item"><a class="nav-link active" aria-current="page" href="/semef/comissao/">Organização</a></li>
-                    
-                    <li class="nav-item"><a class="nav-link active" aria-current="page" href="/semef/CAEF/">O CAEF</a></li>
-                    
-                </ul>
-                <form class="d-flex">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="http://www.demar.eel.usp.br" id='no-ext-link'>DEMAR</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="https://site.eel.usp.br/" id='no-ext-link'><img src="/semef/img/logos/logo_eel_2017.png" height="25px"></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="https://www5.usp.br/" id='no-ext-link'><img src="/semef/img/logos/usp-2018-logo.png" height="25px"></a>
-                        </li>
-                    </ul>
-                </form>
-            </div>
-        </div>
-    </nav>
-    <hr class="top-color-bar" style="background-color:#fcb421;">
-    <hr class="top-color-bar" style="background-color:#64c4d2;">
-    <hr class="top-color-bar" style="background-color:#1094ab;">
-</div>
-
-    <div class="container-md my-2">
-        <div class="row">
-            <div class="col border bg-light mx-0 px-0">
-                <div class="alert bg-dark bg-gradient text-white" role="alert">
-                    <h2>Programação</h2>
-                </div>
-                <div class="container-md my-2">
+I"V<div class="container-md my-2">
 
 <div class="col border m-2 bg-light">
 
@@ -176,8 +122,6 @@ Seg,
 <p>Aceita também html! <b>negrito</b>, <i>itálico</i>, etc.</p>
 
               <!-- link para o currículo do palestrante -->
-              
-                <p><a href="https://pt.wikipedia.org/wiki/Albert_Einstein" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
               
             </div>
             <div class="modal-footer">
@@ -324,8 +268,6 @@ Ter,
 
               <!-- link para o currículo do palestrante -->
               
-                <p><a href="https://pt.wikipedia.org/wiki/Albert_Einstein" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
-              
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -470,8 +412,6 @@ Qua,
 <p>Aceita também html! <b>negrito</b>, <i>itálico</i>, etc.</p>
 
               <!-- link para o currículo do palestrante -->
-              
-                <p><a href="https://pt.wikipedia.org/wiki/Albert_Einstein" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
               
             </div>
             <div class="modal-footer">
@@ -618,8 +558,6 @@ Qui,
 
               <!-- link para o currículo do palestrante -->
               
-                <p><a href="https://pt.wikipedia.org/wiki/Albert_Einstein" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
-              
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -765,8 +703,6 @@ Sex,
 
               <!-- link para o currículo do palestrante -->
               
-                <p><a href="https://pt.wikipedia.org/wiki/Albert_Einstein" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
-              
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -863,12 +799,4 @@ Sex,
 
 </div>
 </div>
-
-            </div>
-        </div>
-    </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
-</body>
-
-</html>
+:ET

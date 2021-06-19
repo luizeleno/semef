@@ -2,9 +2,5 @@ baseurl: /semef
 
 title: SEMEF
 
-ano: 2021
-D1: 2021-09-27
-duracao: 5
-
 collections:
   - eventos

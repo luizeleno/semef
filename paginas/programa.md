@@ -49,7 +49,9 @@ permalink: /programa/
               <h5>{{evento.titulo}}</h5>
               {{evento.content}}
               <!-- link para o currículo do palestrante -->
-              <p><a href="{{evento.link}}" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
+              {% if evento.link %}
+                <p><a href="{{evento.link}}" class="btn btn-primary" role="button" aria-disabled="true" target="_blank">Sobre o palestrante</a></p>
+              {% endif %}
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
