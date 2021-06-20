@@ -3,7 +3,9 @@ layout: default
 title: "VIII Semana de Engenharia Física"
 ---
 
-<img class="m-3" src="{{site.baseurl}}/img/logos/semef.jpg" style="float: right; width=30%">
+<div class="float-lg-end m-3">
+    <img class="img-fluid" src="{{site.baseurl}}/img/logos/semef.jpg">
+</div>
 
 Podem formatar a página principal como quiserem! Aceita markdown e html
 
