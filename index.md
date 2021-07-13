@@ -13,4 +13,9 @@ Podem formatar a página principal como quiserem! Aceita markdown e html
 
 Quisque molestie dui pretium neque facilisis, vel interdum purus pulvinar. Pellentesque sed dolor lobortis felis pretium imperdiet eget a lacus. Quisque risus felis, congue non lorem vitae, congue congue ipsum. Aliquam vulputate metus sed ipsum luctus, a efficitur nisi egestas. Nunc non odio mattis, viverra dolor accumsan, sagittis enim. Quisque faucibus at magna suscipit sollicitudin. Vivamus auctor aliquam velit congue dapibus. Aliquam at nisi vitae ligula mattis tincidunt.
 
-Nulla pharetra, ante varius auctor interdum, lorem ante pellentesque odio, at finibus orci arcu sit amet nisl. Morbi in lacinia mi. Phasellus sed odio non nunc luctus maximus et id metus. Donec faucibus magna fermentum fermentum ullamcorper. Phasellus ac pulvinar dolor, non commodo odio. Quisque vitae dictum risus. Sed vel pulvinar metus. Pellentesque feugiat ut lorem id facilisis. Donec vestibulum dapibus purus ut auctor. Suspendisse potenti. Donec magna diam, ultricies eu suscipit eget, imperdiet at mauris. Duis vulputate tortor elit, id pharetra enim pellentesque sit amet. 
+<div class="col-md-5 float-lg-end mb-2">
+    {% include carousel.html name="CAEF" data=site.data.carousel.CAEF modal=false height=400px %}
+</div>
+
+
+Nulla pharetra, ante varius auctor interdum, lorem ante pellentesque odio, at finibus orci arcu sit amet nisl. Morbi in lacinia mi. Phasellus sed odio non nunc luctus maximus et id metus. Donec faucibus magna fermentum fermentum ullamcorper. Phasellus ac pulvinar dolor, non commodo odio. Quisque vitae dictum risus. Sed vel pulvinar metus. Pellentesque feugiat ut lorem id facilisis. Donec vestibulum dapibus purus ut auctor. Suspendisse potenti. Donec magna diam, ultricies eu suscipit eget, imperdiet at mauris. Duis vulputate tortor elit, id pharetra enim pellentesque sit amet.

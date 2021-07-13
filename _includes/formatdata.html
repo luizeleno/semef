@@ -5,5 +5,8 @@
   {% when '3' %}Qua,
   {% when '4' %}Qui,
   {% when '5' %}Sex,
+  {% when '6' %}Sab,
+  {% when '7' %}Dom,
+  {% when '0' %}Dom,
 {% endcase %}
 {{ include.data | date: "%d/%m/%Y" }}

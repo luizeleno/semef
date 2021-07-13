@@ -1,0 +1,51 @@
+<!--
+uso num tag liquid:
+include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=zzzz
+-->
+
+<div id="{{ include.name }}" class="carousel slide" data-ride="carousel">
+
+    <ol class="carousel-indicators">
+        {% for item in include.data %} {% if forloop.first %}
+        <li data-target="#{{ include.name }}" data-slide-to="0" class="active"></li>
+        {% else %}
+        <li data-target="#{{ include.name }}" data-slide-to="{{ forloop.index0 }}"></li>
+        {% endif %} {% endfor %}
+    </ol>
+    <div class="carousel-inner my-0">
+        {% for item in include.data %}
+        <div class="carousel-item {% if forloop.first %}active{% endif %}">
+            {% if include.modal %}
+            <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#{{include.name}}{{item.id}}1">
+                <img class="w-100 img-responsive img-carousel" src="{{site.baseurl}}{{ item.url }}" alt="{{ item.title }}" title="{{ item.title }}" style="height: {{include.height}}">
+            </a>
+            <!-- Modal -->
+            <div class="modal fade" id="{{include.name}}{{item.id}}1" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header bg-dark text-light">
+                            <h5 class="modal-title">{{item.caption}}</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+                        </div>
+                        <div class="modal-body">
+                            <a id="no-ext-link" target="_blank" href="{% if item.link %}{{ item.link }}{% else %}{{ item.url }}{% endif%}" title="{{ item.link }}">
+                                <img class="figure-img img-fluid rounded" src="{{site.baseurl}}{{ item.url }}" alt="{{ item.title }}" title="{{ item.title }}">
+                            </a>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% else %}
+            <img class="w-100 img-responsive img-carousel" src="{{site.baseurl}}{{ item.url }}" alt="{{ item.title }}" title="{{ item.title }}" style="height: {{include.height}}"> {% endif %}
+            <div class="carousel-caption d-none d-md-block">
+                <h5>{{item.caption}}</h5>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
