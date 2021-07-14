@@ -14,7 +14,7 @@ Podem formatar a página principal como quiserem! Aceita markdown e html
 Quisque molestie dui pretium neque facilisis, vel interdum purus pulvinar. Pellentesque sed dolor lobortis felis pretium imperdiet eget a lacus. Quisque risus felis, congue non lorem vitae, congue congue ipsum. Aliquam vulputate metus sed ipsum luctus, a efficitur nisi egestas. Nunc non odio mattis, viverra dolor accumsan, sagittis enim. Quisque faucibus at magna suscipit sollicitudin. Vivamus auctor aliquam velit congue dapibus. Aliquam at nisi vitae ligula mattis tincidunt.
 
 <div class="col-md-5 float-lg-end mb-2">
-    {% include carousel.html name="CAEF" data=site.data.carousel.CAEF modal=false height=400px %}
+    {% include carousel.html name="home" height="300px" data=site.data.carousel.CAEF %}
 </div>
 
 

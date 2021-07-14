@@ -1,9 +1,5 @@
 CAEF:
-  - title: "Semef Logo"
-    url: /img/logos/semef.jpg
-    caption: "Semef - logo"
+  - url: /img/logos/semef.jpg
     id: foto1
-  - title: "CAEF Logo"
-    url: /img/eventos/CAEF.jpg
-    caption: "CAEF - logo"
+  - url: /img/eventos/CAEF.jpg
     id: foto2
