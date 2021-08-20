@@ -2,6 +2,7 @@
 label: rita_de_cassia_dos_anjos
 nome: Rita de Cássia dos Anjos
 titulo: Universo extremo: O que sabemos em altas energias
+instituicao:
 img: einstein.jpg
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
