@@ -2,6 +2,7 @@
 label: fanny_beron
 nome: Fanny Béron
 titulo: Engenharia spintrônica
+instituicao:
 img: einstein.jpg
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
