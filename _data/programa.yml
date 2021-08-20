@@ -13,6 +13,9 @@
     -
       horario: 16-18h
       evento: sonia_guimaraes
+    -
+      horario: 19-21h
+      evento: minigit
 -
   data: 2021-09-28
   programacao:
@@ -28,6 +31,9 @@
     -
       horario: 16-18h
       evento: cristiane_romano
+    -
+      horario: 19-21h
+      evento: minigit
 -
   data: 2021-09-29
   programacao:
@@ -43,6 +49,9 @@
     -
       horario: 16-18h
       evento: sonia_guimaraes
+    -
+      horario: 19-21h
+      evento: minilatex
 -
   data: 2021-09-30
   programacao:
@@ -58,6 +67,9 @@
     -
       horario: 16-18h
       evento: sonia_guimaraes
+    -
+      horario: 19-21h
+      evento: minilatex
 -
   data: 2021-10-01
   programacao:
