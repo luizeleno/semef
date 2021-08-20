@@ -2,6 +2,7 @@
 label: sergio_muniz
 nome: Sérgio Muniz
 titulo: Tecnologia quântica e engenharia
+instituicao:
 img: einstein.jpg
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
