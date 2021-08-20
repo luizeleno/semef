@@ -7,6 +7,12 @@
     -
       horario: 10-12h
       evento: sonia_guimaraes
+    -
+      horario: 08-10h
+      evento: abertura
+    -
+      horario: 10-12h
+      evento: sonia_guimaraes
 -
   data: 2021-09-28
   programacao:
