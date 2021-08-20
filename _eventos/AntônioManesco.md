@@ -2,6 +2,7 @@
 label: antonio_manesco
 nome: Antônio Manesco
 titulo: Simulando nanodispositivos
+instituicao:
 img: einstein.jpg
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
