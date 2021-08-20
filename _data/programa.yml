@@ -18,28 +18,28 @@
   programacao:
     -
       horario: 08-10h
-      evento: abertura
+      evento: ado_jorio_de_vasconcelos
     -
       horario: 10-12h
-      evento: einstein
+      evento: roberta_veloso_garcia
     -
       horario: 14-16h
-      evento: abertura
+      evento: ronan_arraes
     -
       horario: 16-18h
-      evento: sonia_guimaraes
+      evento: cristiane_romano
 -
   data: 2021-09-29
   programacao:
     -
       horario: 08-10h
-      evento: abertura
+      evento: gabriela_furlan_giordano
     -
       horario: 10-12h
-      evento: einstein
+      evento: joao_ramos
     -
       horario: 14-16h
-      evento: abertura
+      evento: sergio_muniz
     -
       horario: 16-18h
       evento: sonia_guimaraes
@@ -48,13 +48,13 @@
   programacao:
     -
       horario: 08-10h
-      evento: abertura
+      evento: antonio_manesco
     -
       horario: 10-12h
-      evento: einstein
+      evento: fanny_beron
     -
       horario: 14-16h
-      evento: abertura
+      evento: regis_terenzi_neuenschwander
     -
       horario: 16-18h
       evento: sonia_guimaraes
@@ -63,13 +63,13 @@
   programacao:
     -
       horario: 08-10h
-      evento: abertura
+      evento: rita_de_cassia_dos_anjos
     -
       horario: 10-12h
-      evento: einstein
+      evento: alberto_saa
     -
       horario: 14-16h
-      evento: abertura
+      evento: gabriela_castellano
     -
       horario: 16-18h
       evento: encerramento
