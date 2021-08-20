@@ -1,7 +1,8 @@
 ---
 label: minilatex
 nome: Pedro Gomes Branquinho
-titulo: Elementos de $\LaTeX$ e aplicações modernas. 
+titulo: Elementos de $\LaTeX$ e aplicações modernas 
+instituicao:
 img: einstein.jpg
 link: "https://computeel.org/pyjupiter/"
 ---
