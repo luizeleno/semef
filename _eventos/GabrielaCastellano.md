@@ -2,6 +2,7 @@
 label: gabriela_castellano
 nome: Gabriela Castellano
 titulo: Desvendando o cérebro humano através da Física
+instituicao:
 img: einstein.jpg
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
