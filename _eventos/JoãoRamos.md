@@ -2,6 +2,7 @@
 label: joao_ramos
 nome: João Luiz Almeida de Souza Ramos
 titulo: Robótica para o bem da humanidade: desenvolvimento de robôs de resgate e assistivos
+instituicao:
 img: einstein.jpg
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
