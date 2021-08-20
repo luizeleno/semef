@@ -8,10 +8,10 @@
       horario: 10-12h
       evento: sonia_guimaraes
     -
-      horario: 08-10h
+      horario: 14-16h
       evento: abertura
     -
-      horario: 10-12h
+      horario: 16-18h
       evento: sonia_guimaraes
 -
   data: 2021-09-28
@@ -22,6 +22,12 @@
     -
       horario: 10-12h
       evento: einstein
+    -
+      horario: 14-16h
+      evento: abertura
+    -
+      horario: 16-18h
+      evento: sonia_guimaraes
 -
   data: 2021-09-29
   programacao:
@@ -31,6 +37,12 @@
     -
       horario: 10-12h
       evento: einstein
+    -
+      horario: 14-16h
+      evento: abertura
+    -
+      horario: 16-18h
+      evento: sonia_guimaraes
 -
   data: 2021-09-30
   programacao:
@@ -40,6 +52,12 @@
     -
       horario: 10-12h
       evento: einstein
+    -
+      horario: 14-16h
+      evento: abertura
+    -
+      horario: 16-18h
+      evento: sonia_guimaraes
 -
   data: 2021-10-01
   programacao:
@@ -49,6 +67,9 @@
     -
       horario: 10-12h
       evento: einstein
+    -
+      horario: 14-16h
+      evento: abertura
     -
       horario: 16-18h
       evento: encerramento
