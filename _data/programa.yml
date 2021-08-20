@@ -7,6 +7,12 @@
     -
       horario: 10-12h
       evento: einstein
+    -
+      horario: 10-12h
+      evento: einstein
+    -
+      horario: 10-12h
+      evento: einstein
 -
   data: 2021-09-28
   programacao:
