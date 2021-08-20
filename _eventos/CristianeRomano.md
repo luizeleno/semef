@@ -2,6 +2,7 @@
 label: cristiane_romano
 nome: Cristiane Romano
 titulo: Oratória com Liberdade: Alcançando Resultados
+instituicao:
 img: einstein.jpg
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
