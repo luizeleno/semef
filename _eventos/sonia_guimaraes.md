@@ -1,1 +1,11 @@
+---
+label: sonia_guimaraes
+nome: Sônia Guimarães
+titulo: Semicondutores e a Revolução Tecnológica
+instituicao: Princeton
+img: einstein.jpg
+link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+---
 
+Resumo da apresentação - Os semicondutores são a base da revolução tecnológica que vivemos hoje. A tecnologia que produz estes celulares, televisores, e todos os equipamentos eletrônicos que existem hoje, foi desenvolvida pela ciência dos semicondutores. E hoje se produz materiais, que se comportam como semicondutores, para tornar este desenvolvimento ainda mais maleável, mais rápido, mais econômico, em menor dimensão, que possa ser usado 
+no espaço, enfim, a revolução continua.
