@@ -2,6 +2,7 @@
 label: regis_terenzi_neuenschwander
 nome: Regis Terenzi Neuenschwander
 titulo: Onduladores como fontes de luz para Síncrotrons e Free-electron Lasers
+instituicao:
 img: einstein.jpg
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
