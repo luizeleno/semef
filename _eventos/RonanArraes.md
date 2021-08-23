@@ -3,7 +3,7 @@ label: ronan_arraes
 nome: Ronan Arraes
 titulo: O subsistema de controle de atitude e órbita do satélite Amazonia 1
 instituicao:
-img: einstein.jpg
+img: 8- Ronan Arraes.png
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
 
