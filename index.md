@@ -1,6 +1,10 @@
+---
+layout: default
+title: "VIII Semana de Engenharia Física"
+---
 
 <div class="float-lg-end m-3">
-    <img class="img-fluid" src="{{site.baseurl}}/img/logos/SemefEstrelasOnline.png">
+    <img class="img-fluid" height="300px" src="{{site.baseurl}}/img/logos/SemefEstrelasOnline.png">
 </div>
 
 Podem formatar a página principal como quiserem! Aceita markdown e html
