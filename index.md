@@ -4,7 +4,7 @@ title: "VIII Semana de Engenharia Física"
 ---
 
 <div class="float-lg-end m-3">
-    <img class="img-fluid" src="{{site.baseurl}}/img/logos/semef.jpg">
+    <img class="img-fluid" src="{{site.baseurl}}/img/logos/SemefEstrelasOnline.png">
 </div>
 
 Podem formatar a página principal como quiserem! Aceita markdown e html
