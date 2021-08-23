@@ -22,16 +22,16 @@ permalink: /comissao/
   * Gabriel Tomé Silveira
   * Pedro Augusto Yi Wei Lee
 
-#### **Administrativo**
-
-  * Geovani Augusto Xavier Ribeiro
-
 #### **Marketing**
 
   * Danton de Godoy Antonio
   * Bruna Ramos Azevedo
   * Marcos Rafael da Silva
   * Matheus Machado Venancio
+
+#### **Administrativo**
+
+  * Geovani Augusto Xavier Ribeiro
 
 #### **Eventos**
 
