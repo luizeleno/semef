@@ -4,32 +4,32 @@ title: "Comissao organizadora"
 permalink: /comissao/
 ---
 
-* **Presidência**
+* ### **Presidência**
   * Bruno Gomes Cordeiro
   * Gabriella Santos Silva
 
-* **Acadêmico**
+* ### **Acadêmico**
   * Vinicius Gabriel Gomes de Albuquerque
   * Hugo Magalhães Martins Júnior
   * Luana Barbosa Lima de Almeida
   * Matheus de Mendonça Chitan
 
-* **Financeiro**
+* ### **Financeiro**
   * Higor Natan Alves Ferreira
   * Gabriel Tomé Silveira
   * Pedro Augusto Yi Wei Lee
 
-* **Administrativo**
+* ### **Administrativo**
   * Geovani Augusto Xavier Ribeiro
 
-* **Marketing**
+* ### **Marketing**
   * Danton de Godoy Antonio
   * Bruna Ramos Azevedo
   * Marcos Rafael da Silva
   * Matheus Machado Venancio
 
-* **Eventos**
+* ### **Eventos**
   * Alvaro Vieira Aleprotte
 
-* **Gestão de Pessoas**
+* ### **Gestão de Pessoas**
   * Maria Eduarda de oliveira D'Avila Gardingo
