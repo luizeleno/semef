@@ -2,6 +2,7 @@
 layout: default
 title: "Programação"
 permalink: /programa/
+mathjax: true
 ---
 
 <div class="container-md my-2">
@@ -47,7 +48,7 @@ permalink: /programa/
             <div class="modal-body">
               <h5>{{evento.nome}}</h5>
               <p><i>{{evento.instituicao}}</i></p>
-              <h5>{{evento.titulo}}</h5>
+              <h5>{{evento.titulo | markdownify}}</h5>
               <h5>Resumo:</h5>
               {{evento.content}}
               <!-- link para o currículo do palestrante -->

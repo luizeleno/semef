@@ -1,9 +1,9 @@
 ---
 label: alberto_saa
 nome: Alberto Saa
-titulo: Viajando à velocidade do pensamento: breve história das ondas gravitacionais
+titulo: "Viajando à velocidade do pensamento: breve história das ondas gravitacionais"
 instituicao:
-img: 5- Alberto Saa.png
+img: "5- Alberto Saa.png"
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
 

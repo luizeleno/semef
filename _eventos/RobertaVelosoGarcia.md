@@ -1,9 +1,9 @@
 ---
 label: roberta_veloso_garcia
 nome: Roberta Veloso Garcia
-titulo: Atitude de satélites artificiais: a importância nas missões espaciais e como determiná-la
+titulo: "Atitude de satélites artificiais: a importância nas missões espaciais e como determiná-la"
 instituicao:
-img: 11 - Roberta Veloso.png
+img: "11 - Roberta Veloso.png"
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
 
