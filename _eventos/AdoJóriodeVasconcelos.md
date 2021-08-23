@@ -3,7 +3,7 @@ label: ado_jorio_de_vasconcelos
 nome: Ado Jório de Vasconcelos
 titulo: Nanoscópio: ciência, tecnologia e inovação
 instituicao: 
-img: einstein.jpg
+img: 3- Ado Jorio.png
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
 
