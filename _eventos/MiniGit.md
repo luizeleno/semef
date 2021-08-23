@@ -3,7 +3,7 @@ label: minigit
 nome: Prof. Luiz T. F. Eleno
 titulo: Desenvolvimento de projetos cooperativos usando GIT
 instituicao:
-img: einstein.jpg
+img: 9- Luiz Eleno.png
 link: "https://computeel.org/pyjupiter/"
 ---
 
