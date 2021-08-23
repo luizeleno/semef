@@ -3,7 +3,7 @@ label: sonia_guimaraes
 nome: Sônia Guimarães
 titulo: Semicondutores e a Revolução Tecnológica
 instituicao: Princeton
-img: einstein.jpg
+img: 2- Sonia Guimaraes.png
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
 
