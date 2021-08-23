@@ -3,7 +3,7 @@ label: gabriela_furlan_giordano
 nome: Gabriela Furlan Giordano
 titulo: Dispositivos microfluídicos: desenvolvimento e aplicações
 instituicao:
-img: einstein.jpg
+img: 13 - Gabriela Giordano.png
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
 
