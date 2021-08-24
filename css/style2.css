@@ -2,8 +2,8 @@ body {
     padding-top: 50px;
     padding-bottom: 0px;
     background-color: #f4f4f4;
-    column-count: 2;
     align: left;
+    width: 100%;
 }
 
 hr.top-color-bar {
