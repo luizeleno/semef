@@ -33,3 +33,7 @@ nor links with id="no-ext-link" */
     background-size: 100%;
     margin-left: .1em;
 }
+
+.column {
+  column-count: 2;
+}
