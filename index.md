@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: firstpage
 title: "VIII Semana de Engenharia Física"
 ---
 
