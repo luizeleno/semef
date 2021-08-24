@@ -3,10 +3,6 @@ layout: firstpage
 title: "VIII Semana de Engenharia Física"
 ---
 
-<div class="float-lg-end m-3">
-    <img class="img-fluid" src="{{site.baseurl}}/img/logos/SemefEstrelasOnline.png">
-</div>
-
 
 
 É com grande satisfação que o Centro Acadêmico de Engenharia Física traz a todos a 8ª Semana de Engenharia Física da Escola de Engenharia de Lorena da Universidade de São  Paulo. 
