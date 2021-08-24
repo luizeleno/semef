@@ -2,10 +2,8 @@ body {
     padding-top: 50px;
     padding-bottom: 0px;
     background-color: #f4f4f4;
-}
-
-.coluna {
-  column-count: 2;
+    column-count: 2;
+    align: left;
 }
 
 hr.top-color-bar {
