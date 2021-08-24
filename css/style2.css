@@ -1,1 +1,35 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 0px;
+    text-align: left;
+    background-color: #f4f4f4;
+    width: 100%;
+}
 
+hr.top-color-bar {
+    margin: 0px;
+    border-width: 0px;
+    height: 5px;
+    background-color: #1094ab;
+    opacity: 1;
+}
+
+
+/* the selector matches and external link (ie. starting with http),
+not including links to the current domain
+nor links with id="no-ext-link" */
+
+[href^="http"]:not([href*="computeel.usp.br"]):not([id*="no-ext-link"])::after {
+    content: '(external link)';
+    display: inline-block;
+    width: .7em;
+    height: .7em;
+    text-indent: .7em;
+    white-space: nowrap;
+    overflow: hidden;
+    background-image: url(//computeel.org/computeel/assets/images/clipart/Icon_External_Link.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin-left: .1em;
+}
