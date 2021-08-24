@@ -6,6 +6,10 @@ body {
     width: 100%;
 }
 
+.coluna {
+  column-count: 2;
+}
+
 hr.top-color-bar {
     margin: 0px;
     border-width: 0px;
