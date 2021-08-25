@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Comissao organizadora"
+title: "Comissão organizadora"
 permalink: /comissao/
 ---
 
