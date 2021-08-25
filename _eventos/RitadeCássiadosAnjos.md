@@ -4,7 +4,7 @@ nome: Rita de Cássia dos Anjos
 titulo: "Universo extremo: O que sabemos em altas energias"
 instituicao:
 img: 6- Rita de Cássia.png
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "http://lattes.cnpq.br/5775617413825711"
 ---
 
 Resumo da apresentação - Raios cósmicos (ou partículas energéticas) são acelerados até altas energias, propagando-se com a velocidade da luz e atingindo constantemente a Terra.
