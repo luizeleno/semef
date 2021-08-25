@@ -4,7 +4,7 @@ nome: Ronan Arraes
 titulo: O subsistema de controle de atitude e órbita do satélite Amazonia 1
 instituicao:
 img: 8- Ronan Arraes.png
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "http://lattes.cnpq.br/5964335207790589"
 ---
 
 Resumo da apresentação - O Amazonia 1 foi o primeiro satélite de observação da Terra inteiramente projetado, integrado, testado e operado pelo Brasil. Dentre os diversos 
