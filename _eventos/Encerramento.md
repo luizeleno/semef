@@ -3,7 +3,7 @@ label: encerramento
 nome: CAEF e Prof. Luiz T. F. Eleno
 titulo: Encerramento
 instituicao: EEL/USP
-img: CAEF.jpg
+img: 0- Encerramento1.png
 link: "https://computeel.org/computeel/"
 ---
 
