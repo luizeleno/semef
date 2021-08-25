@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CAEF"
+title: "Centro Acadêmico de Engenharia Física"
 permalink: /CAEF/
 ---
 
