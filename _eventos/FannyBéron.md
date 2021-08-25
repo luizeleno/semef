@@ -4,7 +4,7 @@ nome: Fanny Béron
 titulo: Engenharia spintrônica
 instituicao:
 img: 10 - Fanny Béron.png
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "http://lattes.cnpq.br/9700001213434251"
 ---
 
 Resumo da apresentação - Resolver a equação de Schrödinger para o átomo de hidrogênio já é uma tarefa árdua. Pense então no quão complicado é simular um dispositivo eletrônico. 
