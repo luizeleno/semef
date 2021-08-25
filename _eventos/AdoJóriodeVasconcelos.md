@@ -4,7 +4,7 @@ nome: Ado Jório de Vasconcelos
 titulo: "Nanoscópio: ciência, tecnologia e inovação"
 instituicao: 
 img: "3- Ado Jorio.png"
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "http://lattes.cnpq.br/0034894070455412"
 ---
 
 Resumo da apresentação - Nesta palestra será apresentado um resumo dos desenvolvimentos científicos e tecnológicos que nos possibilitaram observar, pela primeira vez, uma
