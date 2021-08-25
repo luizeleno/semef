@@ -4,7 +4,7 @@ nome: Alberto Saa
 titulo: "Viajando à velocidade do pensamento: breve história das ondas gravitacionais"
 instituicao:
 img: "5- Alberto Saa.png"
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "http://lattes.cnpq.br/0039310040138543"
 ---
 
 Resumo da apresentação - No dia 14 de setembro de 2015, uma data singular como veremos, foram detectados na terra, pela primeira vez, os sinais de ondas gravitacionais 
