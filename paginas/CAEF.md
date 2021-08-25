@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "O CAEF"
+title: "CAEF"
 permalink: /CAEF/
 ---
 
