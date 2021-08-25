@@ -4,7 +4,7 @@ nome: Roberta Veloso Garcia
 titulo: "Atitude de satélites artificiais: a importância nas missões espaciais e como determiná-la"
 instituicao:
 img: "11 - Roberta Veloso.png"
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "http://lattes.cnpq.br/5107846466535413"
 ---
 
 Resumo da apresentação - O movimento de um satélite artificial é especificado por sua posição, velocidade, atitude e movimento de atitude. As duas primeiras quantidades 
