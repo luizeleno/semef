@@ -33,17 +33,3 @@ nor links with id="no-ext-link" */
     background-size: 100%;
     margin-left: .1em;
 }
-
-* {
-  box-sizing: border-box;
-}
-
-.row {
-  display: flex;
-}
-
-/* Create two equal columns that sits next to each other */
-.column {
-  flex: 50%;
-  padding: 10px;
-}
