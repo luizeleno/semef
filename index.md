@@ -9,9 +9,3 @@ Desta vez, devido a pandemia de Covid-19, o evento será realizado inteiramente 
 
 As palestras serão ministradas no período diurno, juntamente com a visita virtual, e tratará dos mais diversos tópicos referêntes a graduação, áreas de trabalho e pesquisa do engenheiro físico, como: Semicondutores, Nanotecnologia, Inteligência Artificial, Tecnologia Quântica, Onduladores Síncrotron, entre outro...
 
-
-
-
-<div class="col-md-5 float-lg-end mb-2">
-    {% include carousel.html name="home" height="300px" data=site.data.carousel.CAEF %}
-</div>
