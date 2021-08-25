@@ -4,7 +4,7 @@ nome: João Luiz Almeida de Souza Ramos
 titulo: "Robótica para o bem da humanidade: desenvolvimento de robôs de resgate e assistivos"
 instituicao:
 img: einstein.jpg
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "https://publish.illinois.edu/jlramos/"
 ---
 
 Resumo da apresentação - Robôs humanoides autônomos ainda estão longe de reproduzir a sofisticação e adaptabilidade de seres humanos no que diz respeito à habilidade 
