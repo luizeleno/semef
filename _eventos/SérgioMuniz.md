@@ -4,7 +4,7 @@ nome: Sérgio Muniz
 titulo: Tecnologia quântica e engenharia
 instituicao:
 img: 12 - Sérgio Muniz.png
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "http://lattes.cnpq.br/7928079502382507"
 ---
 
 Resumo da apresentação - O avanço das tecnologias quânticas nas duas últimas décadas tem sido marcante. Atualmente, ideias e terminologias antes reservadas a um pequeno 
