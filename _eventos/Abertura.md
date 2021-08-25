@@ -3,7 +3,7 @@ label: abertura
 nome: CAEF e Prof. Luiz T. F. Eleno
 titulo: Abertura
 instituicao: EEL/USP
-img: CAEF.jpg
+img: 0- Abertura1.png
 link: "https://computeel.org/computeel/"
 ---
 
