@@ -2,7 +2,7 @@
 label: alessandra_scholl_sternberg
 nome: Alessandra Scholl Sternberg
 titulo: Aplicação da Engenharia Física combinada com Engenharia de Sistemas para Desenvolvimento de Sistemas de Controle para Linhas de Trens
-instituicao: Princeton
+instituicao: 
 img: "4- Alessandra.png"
 link: "https://www.linkedin.com/in/alessandrasternberg/?originalSubdomain=nl"
 ---
