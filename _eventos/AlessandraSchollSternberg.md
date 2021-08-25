@@ -4,7 +4,7 @@ nome: Alessandra Scholl Sternberg
 titulo: Aplicação da Engenharia Física combinada com Engenharia de Sistemas para Desenvolvimento de Sistemas de Controle para Linhas de Trens
 instituicao: Princeton
 img: "4- Alessandra.png"
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "https://www.linkedin.com/in/alessandrasternberg/?originalSubdomain=nl"
 ---
 
 Resumo da apresentação - Na Siemens Mobility B.V. desenvolvemos Sistemas de Controle de Linhas de Trens para o controle do movimento seguro e eficiente de trens pela Europa. 
