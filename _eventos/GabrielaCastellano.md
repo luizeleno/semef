@@ -4,7 +4,7 @@ nome: Gabriela Castellano
 titulo: Desvendando o cérebro humano através da Física
 instituicao:
 img: 1- Gabriella Castellano.png
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "http://lattes.cnpq.br/5993832413749292"
 ---
 
 Resumo da apresentação - Embora quando se pensa em estudos sobre o cérebro humano, ou seja, na área conhecida como Neurociência, imediatamente venha à mente a necessidade 
