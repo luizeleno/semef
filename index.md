@@ -3,7 +3,16 @@ layout: firstpage
 title: "VIII Semana de Engenharia Física"
 ---
 
-
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
 
 É com grande satisfação que o Centro Acadêmico de Engenharia Física traz a todos a 8ª Semana de Engenharia Física da Escola de Engenharia de Lorena da Universidade de São  Paulo. 
 
