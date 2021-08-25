@@ -4,7 +4,7 @@ nome: Gabriela Furlan Giordano
 titulo: "Dispositivos microfluídicos: desenvolvimento e aplicações"
 instituicao:
 img: 13 - Gabriela Giordano.png
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "https://www.linkedin.com/in/gabriela-furlan-giordano-57851820b/"
 ---
 
 Resumo da apresentação - Neste seminário será feita uma breve apresentação do Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), do Laboratório Nacional de 
