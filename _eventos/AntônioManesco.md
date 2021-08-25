@@ -4,7 +4,7 @@ nome: Antônio Manesco
 titulo: Simulando nanodispositivos
 instituicao:
 img: "14 - Antônio Manesco.png"
-link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
+link: "https://www.linkedin.com/in/antonio-manesco-689751131/"
 ---
 
 Resumo da apresentação - Resolver a equação de Schrödinger para o átomo de hidrogênio já é uma tarefa árdua. Pense então no quão complicado é simular um dispositivo eletrônico. 
