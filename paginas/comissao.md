@@ -8,7 +8,7 @@ permalink: /comissao/
   
   * Responsáveis por representar e organizar o centro acadêmico, a fim de possibilitar a realização da Semana de Engenharia
 
-##### **Membros**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ##### **Membros**
 
   * Bruno Gomes Cordeiro
   * Gabriella Santos Silva
@@ -17,7 +17,7 @@ permalink: /comissao/
 
   * Responsáveis por encontrar e contatar palestrantes, assim como verificar a viabilidade de minicursos e visitas (virtuais atualmente)
 
-##### **Membros**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ##### **Membros**
   * Vinicius Gabriel Gomes de Albuquerque
   * Hugo Magalhães Martins Júnior
   * Luana Barbosa Lima de Almeida
