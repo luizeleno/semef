@@ -5,38 +5,51 @@ permalink: /comissao/
 ---
 
 #### **Presidência**
+  
+  Responsáveis por representar e organizar o centro acadêmico, a fim de possibilitar a realização da Semana de Engenharia
 
-  * Bruno Gomes Cordeiro - 3° Ano
-  * Gabriella Santos Silva - 3° Ano
+##### **Membros**
+
+  * Bruno Gomes Cordeiro
+  * Gabriella Santos Silva
 
 #### **Acadêmico**
 
-  * Vinicius Gabriel Gomes de Albuquerque - 3° Ano
-  * Hugo Magalhães Martins Júnior - 3° Ano
-  * Luana Barbosa Lima de Almeida - 1° Ano
-  * Matheus de Mendonça Chitan - 4° Ano
+  Responsáveis por encontrar e contatar palestrantes, assim como verificar a viabilidade de minicursos e visitas (virtuais atualmente)
+
+##### **Membros**
+  * Vinicius Gabriel Gomes de Albuquerque
+  * Hugo Magalhães Martins Júnior
+  * Luana Barbosa Lima de Almeida
+  * Matheus de Mendonça Chitan
 
 #### **Financeiro**
+  
+  Responsáveis pelas finanças relacionadas ao evento, como brindes e plataformas, e contabilidade da presença dos inscritos.
 
-  * Higor Natan Alves Ferreira - 3° Ano
-  * Gabriel Tomé Silveira - 1° Ano
-  * Pedro Augusto Yi Wei Lee - 3° Ano
+##### **Membros**
+  * Higor Natan Alves Ferreira
+  * Gabriel Tomé Silveira
+  * Pedro Augusto Yi Wei Lee
 
 #### **Marketing**
 
-  * Danton de Godoy Antonio - 2° Ano
-  * Bruna Ramos Azevedo - 1° Ano
-  * Marcos Rafael da Silva - 1° Ano
-  * Matheus Machado Venancio - 1° Ano
+  Responsáveis pelas identidades visuais, divulgação e confecção das artes usadas no produto vendido juntamente com o ingresso da VIII SEMEF
+
+##### **Membros**
+  * Danton de Godoy Antonio
+  * Bruna Ramos Azevedo
+  * Marcos Rafael da Silva
+  * Matheus Machado Venancio
 
 #### **Administrativo**
 
-  * Geovani Augusto Xavier Ribeiro - 3° Ano
+  * Geovani Augusto Xavier Ribeiro
 
 #### **Eventos**
 
-  * Alvaro Vieira Aleprotte - 2° Ano
+  * Alvaro Vieira Aleprotte
 
 #### **Gestão de Pessoas**
 
-  * Maria Eduarda de oliveira D'Avila Gardingo - 4° Ano
+  * Maria Eduarda de oliveira D'Avila Gardingo
