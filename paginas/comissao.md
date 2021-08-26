@@ -8,7 +8,7 @@ permalink: /comissao/
   
   * Responsáveis por representar e organizar o centro acadêmico, a fim de possibilitar a realização da Semana de Engenharia
 
-##### **Membros**
+> ##### **Membros**
 
   * Bruno Gomes Cordeiro
   * Gabriella Santos Silva
