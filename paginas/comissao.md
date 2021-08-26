@@ -8,7 +8,7 @@ permalink: /comissao/
   
   * Responsáveis por representar e organizar o centro acadêmico, a fim de possibilitar a realização da Semana de Engenharia
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ##### **Membros**
+  ##### **Membros**
 
   * Bruno Gomes Cordeiro
   * Gabriella Santos Silva
@@ -17,7 +17,7 @@ permalink: /comissao/
 
   * Responsáveis por encontrar e contatar palestrantes, assim como verificar a viabilidade de minicursos e visitas (virtuais atualmente)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ##### **Membros**
+  ##### **Membros**
   * Vinicius Gabriel Gomes de Albuquerque
   * Hugo Magalhães Martins Júnior
   * Luana Barbosa Lima de Almeida
@@ -28,7 +28,7 @@ permalink: /comissao/
   
   * Responsáveis pelas finanças relacionadas ao evento, como brindes e plataformas, e contabilidade da presença dos inscritos.
 
-##### **Membros**
+  ##### **Membros**
   * Higor Natan Alves Ferreira
   * Gabriel Tomé Silveira
   * Pedro Augusto Yi Wei Lee
@@ -38,7 +38,7 @@ permalink: /comissao/
 
   * Responsáveis pelas identidades visuais, divulgação e confecção das artes usadas no produto vendido juntamente com o ingresso da VIII SEMEF
 
-##### **Membros**
+  ##### **Membros**
   * Danton de Godoy Antonio
   * Bruna Ramos Azevedo
   * Marcos Rafael da Silva
