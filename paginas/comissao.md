@@ -13,7 +13,7 @@ permalink: /comissao/
     * Bruno Gomes Cordeiro
     * Gabriella Santos Silva
 
-**Diretório Acadêmico**
+#### **Diretório Acadêmico**
 
   * Responsáveis por encontrar e contatar palestrantes, assim como verificar a viabilidade de minicursos e visitas (virtuais atualmente)
 
