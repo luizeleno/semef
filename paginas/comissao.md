@@ -6,7 +6,7 @@ permalink: /comissao/
 
 #### **Presidência**
   
-  Responsáveis por representar e organizar o centro acadêmico, a fim de possibilitar a realização da Semana de Engenharia
+  * Responsáveis por representar e organizar o centro acadêmico, a fim de possibilitar a realização da Semana de Engenharia
 
 ##### **Membros**
 
@@ -15,7 +15,7 @@ permalink: /comissao/
 
 #### **Acadêmico**
 
-  Responsáveis por encontrar e contatar palestrantes, assim como verificar a viabilidade de minicursos e visitas (virtuais atualmente)
+  * Responsáveis por encontrar e contatar palestrantes, assim como verificar a viabilidade de minicursos e visitas (virtuais atualmente)
 
 ##### **Membros**
   * Vinicius Gabriel Gomes de Albuquerque
@@ -25,7 +25,7 @@ permalink: /comissao/
 
 #### **Financeiro**
   
-  Responsáveis pelas finanças relacionadas ao evento, como brindes e plataformas, e contabilidade da presença dos inscritos.
+  * Responsáveis pelas finanças relacionadas ao evento, como brindes e plataformas, e contabilidade da presença dos inscritos.
 
 ##### **Membros**
   * Higor Natan Alves Ferreira
@@ -34,7 +34,7 @@ permalink: /comissao/
 
 #### **Marketing**
 
-  Responsáveis pelas identidades visuais, divulgação e confecção das artes usadas no produto vendido juntamente com o ingresso da VIII SEMEF
+  * Responsáveis pelas identidades visuais, divulgação e confecção das artes usadas no produto vendido juntamente com o ingresso da VIII SEMEF
 
 ##### **Membros**
   * Danton de Godoy Antonio
