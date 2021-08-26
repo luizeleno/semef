@@ -13,7 +13,7 @@ permalink: /comissao/
   * Bruno Gomes Cordeiro
   * Gabriella Santos Silva
 
-#### **Acadêmico**
+#### ** Diretório Acadêmico**
 
   * Responsáveis por encontrar e contatar palestrantes, assim como verificar a viabilidade de minicursos e visitas (virtuais atualmente)
 
@@ -22,8 +22,9 @@ permalink: /comissao/
   * Hugo Magalhães Martins Júnior
   * Luana Barbosa Lima de Almeida
   * Matheus de Mendonça Chitan
+  * Maria Eduarda de oliveira D'Avila Gardingo
 
-#### **Financeiro**
+#### **Diretório Financeiro**
   
   * Responsáveis pelas finanças relacionadas ao evento, como brindes e plataformas, e contabilidade da presença dos inscritos.
 
@@ -31,8 +32,9 @@ permalink: /comissao/
   * Higor Natan Alves Ferreira
   * Gabriel Tomé Silveira
   * Pedro Augusto Yi Wei Lee
+  * Geovani Augusto Xavier Ribeiro
 
-#### **Marketing**
+#### **Diretório de Marketing**
 
   * Responsáveis pelas identidades visuais, divulgação e confecção das artes usadas no produto vendido juntamente com o ingresso da VIII SEMEF
 
@@ -41,15 +43,5 @@ permalink: /comissao/
   * Bruna Ramos Azevedo
   * Marcos Rafael da Silva
   * Matheus Machado Venancio
-
-#### **Administrativo**
-
-  * Geovani Augusto Xavier Ribeiro
-
-#### **Eventos**
-
   * Alvaro Vieira Aleprotte
-
-#### **Gestão de Pessoas**
-
-  * Maria Eduarda de oliveira D'Avila Gardingo
+ 
