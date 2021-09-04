@@ -4,7 +4,7 @@ title: "Centro Acadêmico de Engenharia Física"
 permalink: /CAEF/
 ---
 
-<img style="float: right;" width="300" height="300" src="{{site.baseurl}}/img/logos/gestao_21.JPG">
+<img style="float: right;" width="450" height="450" src="{{site.baseurl}}/img/logos/gestao_21.JPG">
 
 O Centro Acadêmico de Engenharia Física (C.A.E.F.) da Escola de Engenharia de Lorena da Universidade de São Paulo - EEL-USP tem por finalidade representar os estudantes do curso de Engenharia Física da EEL-USP, promover a aproximação dos alunos com os corpos docente, discente e técnico-administrativo, organizar eventos ou excursões de caráter científico, cultural ou recreativo, além de garantir a excelência do curso.
 
