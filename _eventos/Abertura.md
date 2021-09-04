@@ -7,4 +7,4 @@ img: 0- Abertura1.png
 link: "https://computeel.org/computeel/"
 ---
 
-Resumo da palestra
+Daremos início a VIII Semana de Engenharia Física da Escola de Engenharia de Lorena da Universidade de São Paulo.
