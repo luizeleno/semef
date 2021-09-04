@@ -3,7 +3,7 @@ label: joao_ramos
 nome: João Luiz Almeida de Souza Ramos
 titulo: "Robótica para o bem da humanidade: desenvolvimento de robôs de resgate e assistivos"
 instituicao:
-img: einstein.jpg
+img: joao_ramos.jpg
 link: "https://publish.illinois.edu/jlramos/"
 ---
 
