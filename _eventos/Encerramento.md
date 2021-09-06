@@ -1,6 +1,6 @@
 ---
 label: encerramento
-nome: CAEF e Prof. Luiz T. F. Eleno
+nome: Centro Acadêmico de Engenharia Física
 titulo: Encerramento
 instituicao: EEL/USP
 img: 0- Encerramento1.png
