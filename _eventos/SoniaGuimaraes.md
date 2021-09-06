@@ -1,6 +1,6 @@
 ---
 label: sonia_guimaraes
-nome: Sônia Guimarães
+nome: Sonia Guimarães
 titulo: Semicondutores e a Revolução Tecnológica
 instituicao: 
 img: 2- Sonia Guimaraes.png
