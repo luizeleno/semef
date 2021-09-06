@@ -7,7 +7,7 @@ img: 10 - Fanny Béron.png
 link: "http://lattes.cnpq.br/9700001213434251"
 ---
 
-Resumo da apresentação - Resolver a equação de Schrödinger para o átomo de hidrogênio já é uma tarefa árdua. Pense então no quão complicado é simular um dispositivo eletrônico. 
+Resolver a equação de Schrödinger para o átomo de hidrogênio já é uma tarefa árdua. Pense então no quão complicado é simular um dispositivo eletrônico. 
 São muitos e muitos átomos juntos. Além disso, ainda queremos mudar o campo elétrico, o magnético. Muitas vezes queremos saber como os elétrons interagem entre si. Não é 
 preciso dizer que é impossível buscar soluções analíticas para esses problemas. Mais que isso, é muito difícil inclusive encontrar soluções numéricas. É nessa hora que entram 
 em campo as simplificações. Nesse seminário, vamos explorar os caminhos para simular sistemas nano e mesoscópicos, e também discutir sobre quando as simplificações falham. 
