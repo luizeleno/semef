@@ -7,7 +7,7 @@ img: "11 - Roberta Veloso.png"
 link: "http://lattes.cnpq.br/5107846466535413"
 ---
 
-Resumo da apresentação - O movimento de um satélite artificial é especificado por sua posição, velocidade, atitude e movimento de atitude. As duas primeiras quantidades 
+O movimento de um satélite artificial é especificado por sua posição, velocidade, atitude e movimento de atitude. As duas primeiras quantidades 
 descrevem o movimento translacional do centro de massa da espaçonave e constituem os temas mecânica celeste, determinação orbital ou navegação espacial, dependendo que 
 aspecto do problema que está sendo abordado. As duas últimas quantidades descrevem o movimento rotacional do corpo da espaçonave em torno do seu centro de massa. No caso 
 especial da atitude, que será abordada nesta apresentação, ela é definida pela orientação do satélite no espaço com relação a um sistema inercial.
