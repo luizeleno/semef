@@ -7,7 +7,7 @@ img: branquinho.jpg
 link: ""
 ---
 
-Resumo da apresentação - O $\TeX$, quando foi inventado e idelizado, não podia possivelmente
+O $\TeX$, quando foi inventado e idelizado, não podia possivelmente
 ser melhor preparado à extensa gama de integrações com outras
 linguagens, a que define em parte sua utilidade moderna.
 
