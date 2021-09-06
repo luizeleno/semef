@@ -7,5 +7,5 @@ img: 7- Cristiane Romano.png
 link: "https://cristianeromano.com.br/"
 ---
 
-Resumo da apresentação - Aprender a comunicar com confiança, apresentando as habilidades expressivas (recurso vocal, verbal e não verbal) e aprendendo a gerir as emoções na 
+Aprender a comunicar com confiança, apresentando as habilidades expressivas (recurso vocal, verbal e não verbal) e aprendendo a gerir as emoções na 
 oratória.
