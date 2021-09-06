@@ -7,6 +7,4 @@ img: 0- Encerramento1.png
 link: "https://computeel.org/computeel/"
 ---
 
-Resumo da apresentação - aceita formatação markdown! **negrito**, *itálico*, etc.
-
-Aceita também html! <b>negrito</b>, <i>itálico</i>, etc.
+Encerramento da VIII Semana de Engenharia Física da Escola de Engenharia de Lorena da Universidade de São Paulo
