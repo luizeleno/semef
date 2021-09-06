@@ -7,7 +7,7 @@ img: joao_ramos.jpg
 link: "https://publish.illinois.edu/jlramos/"
 ---
 
-Resumo da apresentação - Robôs humanoides autônomos ainda estão longe de reproduzir a sofisticação e adaptabilidade de seres humanos no que diz respeito à habilidade 
+Robôs humanoides autônomos ainda estão longe de reproduzir a sofisticação e adaptabilidade de seres humanos no que diz respeito à habilidade 
 motora e de percepção sensorial do ambiente ao redor. Com o objetivo de dar habilidades quase-humanas à robôs humanoides, minha pesquisa foca no desenvolvimento de 
 interfaces homem-máquina que conectam um operador humano com um robô remoto em níveis físico e perceptivo. O robô é capaz de reproduzir movimentos do operador em tempo 
 real, e o operador sente as forças interativas entre o robô e o ambiente. Aplicações dessa tecnologia incluem busca e resgate, além de outras ocupações insalubres para 
