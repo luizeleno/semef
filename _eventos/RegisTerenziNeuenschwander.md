@@ -7,5 +7,5 @@ img: 18 - Regis Terenzi.png
 link: "https://pt.wikipedia.org/wiki/Albert_Einstein"
 ---
 
-Resumo da apresentação - O conceito por trás de onduladores, suas aplicações, os dispositivos atuais e os previstos para o Sirius. O uso de onduladores como Free-Electron 
+O conceito por trás de onduladores, suas aplicações, os dispositivos atuais e os previstos para o Sirius. O uso de onduladores como Free-Electron 
 Lasers e futuros projetos para o campus do CNPEM.
