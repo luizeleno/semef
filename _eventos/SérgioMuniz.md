@@ -7,7 +7,7 @@ img: 12 - Sérgio Muniz.png
 link: "http://lattes.cnpq.br/7928079502382507"
 ---
 
-Resumo da apresentação - O avanço das tecnologias quânticas nas duas últimas décadas tem sido marcante. Atualmente, ideias e terminologias antes reservadas a um pequeno 
+O avanço das tecnologias quânticas nas duas últimas décadas tem sido marcante. Atualmente, ideias e terminologias antes reservadas a um pequeno 
 nicho de pesquisadores têm se tornado cada vez mais populares e ganhado espaço na grande mídia e na internet. Isso tem despertado o interesse de grandes empresas e até 
 mesmo economistas, dado o potencial disruptivo dessas novas tecnologias. Por isso, iniciativas de apoio ao desenvolvimento de tecnologias quânticas têm surgido, muitas 
 vezes como uma prioridade nacional, em vários países ao redor do mundo. Porém, mesmo nos países líderes nessas áreas, há uma grande preocupação quanto à formação dos 
