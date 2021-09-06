@@ -4,7 +4,7 @@ nome: Pedro Gomes Branquinho
 titulo: Elementos de $\LaTeX$ e aplicações modernas 
 instituicao:
 img: branquinho.jpg
-link: ""
+link: "https://www.linkedin.com/in/pedro-g-branquinho/"
 ---
 
 O $\TeX$, quando foi inventado e idelizado, não podia possivelmente
