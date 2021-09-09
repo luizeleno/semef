@@ -1,6 +1,6 @@
 ---
 label: joao_abal
-nome: João Pedro Kleinubing Abal
+nome: Me. João Pedro Kleinubing Abal
 titulo: "Nanotecnologia aplicada à Dessalinização da Água: da engenharia à dinâmica molecular do processo"
 instituicao:
 img: "20 - João Abal.png"
