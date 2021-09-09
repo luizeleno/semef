@@ -23,7 +23,6 @@ permalink: /comissao/
     * Hugo Magalhães Martins Júnior
     * Luana Barbosa Lima de Almeida
     * Matheus de Mendonça Chitan
-    * Maria Eduarda de oliveira D'Avila Gardingo
 
 #### **Diretório Financeiro**
   
@@ -34,7 +33,6 @@ permalink: /comissao/
     * Higor Natan Alves Ferreira
     * Gabriel Tomé Silveira
     * Pedro Augusto Yi Wei Lee
-    * Geovani Augusto Xavier Ribeiro
 
 #### **Diretório de Marketing**
 
@@ -46,5 +44,4 @@ permalink: /comissao/
     * Bruna Ramos Azevedo
     * Marcos Rafael da Silva
     * Matheus Machado Venancio
-    * Alvaro Vieira Aleprotte
  
