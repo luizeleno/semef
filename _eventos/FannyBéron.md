@@ -1,6 +1,6 @@
 ---
 label: fanny_beron
-nome: Fanny Béron
+nome: Profa. Dra. Fanny Béron
 titulo: Engenharia spintrônica
 instituicao:
 img: 10 - Fanny Béron.png
