@@ -1,6 +1,6 @@
 ---
 label: antonio_manesco
-nome: Antonio Manesco
+nome: Dr. Antonio Manesco
 titulo: Simulando nanodispositivos
 instituicao:
 img: "14 - Antonio Manesco.png"
