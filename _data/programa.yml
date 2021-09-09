@@ -2,86 +2,86 @@
   data: 2021-09-27
   programacao:
     -
-      horario: 09-11h
+      horario: 09h00-10h40
       evento: abertura
     -
-      horario: 11-13h
+      horario: 11h00-12h40
       evento: sonia_guimaraes
     -
-      horario: 14-16h
+      horario: 14h00-15h40
       evento: alessandra_scholl_sternberg
     -
-      horario: 16-18h
+      horario: 16h00-17h40
       evento: bruno_cipolla
     -
-      horario: 19-21h
+      horario: 19h00-20h40
       evento: minigit
 -
   data: 2021-09-28
   programacao:
     -
-      horario: 09-11h
+      horario: 09h00-10h40
       evento: ado_jorio_de_vasconcelos
     -
-      horario: 11-13h
+      horario: 11h00-12h40
       evento: roberta_veloso_garcia
     -
-      horario: 14-16h
+      horario: 14h00-15h40
       evento: ronan_arraes
     -
-      horario: 16-18h
+      horario: 16h00-17h40
       evento: cristiane_romano
     -
-      horario: 19-21h
+      horario: 19h00-20h40
       evento: minigit
 -
   data: 2021-09-29
   programacao:
     -
-      horario: 09-11h
+      horario: 09h00-10h40
       evento: gabriela_furlan_giordano
     -
-      horario: 11-13h
+      horario: 11h00-12h40
       evento: joao_ramos
     -
-      horario: 14-16h
+      horario: 14h00-15h40
       evento: sergio_muniz
     -
-      horario: 16-18h
+      horario: 16h00-17h40
       evento: joao_abal
     -
-      horario: 19-21h
+      horario: 19h00-20h40
       evento: minilatex
 -
   data: 2021-09-30
   programacao:
     -
-      horario: 09-11h
+      horario: 09h00-10h40
       evento: antonio_manesco
     -
-      horario: 11-13h
+      horario: 11h00-12h40
       evento: fanny_beron
     -
-      horario: 14-16h
+      horario: 14h00-15h40
       evento: regis_terenzi_neuenschwander
     -
-      horario: 16-18h
+      horario: 16h00-17h40
       evento: cnpem
     -
-      horario: 19-21h
+      horario: 19h00-20h40
       evento: minilatex
 -
   data: 2021-10-01
   programacao:
     -
-      horario: 09-11h
+      horario: 09h00-10h40
       evento: rita_de_cassia_dos_anjos
     -
-      horario: 11-13h
+      horario: 11h00-12h40
       evento: alberto_saa
     -
-      horario: 14-16h
+      horario: 14h00-15h40
       evento: gabriela_castellano
     -
-      horario: 16-18h
+      horario: 16h00-17h00
       evento: encerramento
