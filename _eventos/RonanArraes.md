@@ -1,6 +1,6 @@
 ---
 label: ronan_arraes
-nome: Ronan Arraes
+nome: Dr. Ronan Arraes Jardim Chagas
 titulo: O subsistema de controle de atitude e órbita do satélite Amazonia-1
 instituicao:
 img: 8- Ronan Arraes.png
