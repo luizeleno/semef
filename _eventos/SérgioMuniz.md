@@ -1,6 +1,6 @@
 ---
 label: sergio_muniz
-nome: Sérgio Muniz
+nome: Prof. Dr. Sérgio Ricardo Muniz
 titulo: Tecnologia quântica e engenharia
 instituicao:
 img: 12 - Sérgio Muniz.png
