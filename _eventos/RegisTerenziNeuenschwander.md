@@ -1,6 +1,6 @@
 ---
 label: regis_terenzi_neuenschwander
-nome: Regis Terenzi Neuenschwander
+nome: Dr. Regis Terenzi Neuenschwander
 titulo: Onduladores como fontes de luz para Síncrotrons e Free-electron Lasers
 instituicao:
 img: 18 - Regis Terenzi.png
