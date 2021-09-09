@@ -1,6 +1,6 @@
 ---
 label: alberto_saa
-nome: Alberto Saa
+nome: Prof. Dr. Alberto Saa
 titulo: "Viajando à velocidade do pensamento: breve história das ondas gravitacionais"
 instituicao:
 img: "5- Alberto Saa.png"
