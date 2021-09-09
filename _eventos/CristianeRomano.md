@@ -1,6 +1,6 @@
 ---
 label: cristiane_romano
-nome: Cristiane Romano
+nome: Dra. Cristiane Romano
 titulo: "Oratória com Liberdade: Alcançando Resultados"
 instituicao:
 img: 7- Cristiane Romano.png
