@@ -1,6 +1,6 @@
 ---
 label: ado_jorio_de_vasconcelos
-nome: Ado Jorio de Vasconcelos
+nome: Prof. Dr. Ado Jorio de Vasconcelos
 titulo: "Nanoscópio: ciência, tecnologia e inovação"
 instituicao: 
 img: "3- Ado Jorio.png"
