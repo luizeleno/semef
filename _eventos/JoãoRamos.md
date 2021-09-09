@@ -1,6 +1,6 @@
 ---
 label: joao_ramos
-nome: João Luiz Almeida de Souza Ramos
+nome: Prof. Dr. João Luiz Almeida de Souza Ramos
 titulo: "Robótica para o bem da humanidade: desenvolvimento de robôs de resgate e assistivos"
 instituicao:
 img: joao_ramos.jpg
