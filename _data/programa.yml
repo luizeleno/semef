@@ -2,10 +2,10 @@
   data: 2021-09-27
   programacao:
     -
-      horario: 08-10h
+      horario: 09-11h
       evento: abertura
     -
-      horario: 10-12h
+      horario: 11-13h
       evento: sonia_guimaraes
     -
       horario: 14-16h
@@ -20,10 +20,10 @@
   data: 2021-09-28
   programacao:
     -
-      horario: 08-10h
+      horario: 09-11h
       evento: ado_jorio_de_vasconcelos
     -
-      horario: 10-12h
+      horario: 11-13h
       evento: roberta_veloso_garcia
     -
       horario: 14-16h
@@ -38,10 +38,10 @@
   data: 2021-09-29
   programacao:
     -
-      horario: 08-10h
+      horario: 09-11h
       evento: gabriela_furlan_giordano
     -
-      horario: 10-12h
+      horario: 11-13h
       evento: joao_ramos
     -
       horario: 14-16h
@@ -56,10 +56,10 @@
   data: 2021-09-30
   programacao:
     -
-      horario: 08-10h
+      horario: 09-11h
       evento: antonio_manesco
     -
-      horario: 10-12h
+      horario: 11-13h
       evento: fanny_beron
     -
       horario: 14-16h
@@ -74,10 +74,10 @@
   data: 2021-10-01
   programacao:
     -
-      horario: 08-10h
+      horario: 09-11h
       evento: rita_de_cassia_dos_anjos
     -
-      horario: 10-12h
+      horario: 11-13h
       evento: alberto_saa
     -
       horario: 14-16h
