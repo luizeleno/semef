@@ -1,6 +1,6 @@
 ---
 label: gabriela_furlan_giordano
-nome: Gabriela Furlan Giordano
+nome: Dra. Gabriela Furlan Giordano
 titulo: "Dispositivos microfluídicos: desenvolvimento e aplicações"
 instituicao:
 img: 13 - Gabriela Giordano.png
