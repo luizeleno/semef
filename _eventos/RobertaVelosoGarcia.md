@@ -1,6 +1,6 @@
 ---
 label: roberta_veloso_garcia
-nome: Roberta Veloso Garcia
+nome: Profa. Dra. Roberta Garcia
 titulo: "Atitude de satélites artificiais: a importância nas missões espaciais e como determiná-la"
 instituicao:
 img: "11 - Roberta Veloso.png"
