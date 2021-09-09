@@ -1,6 +1,6 @@
 ---
 label: gabriela_castellano
-nome: Gabriela Castellano
+nome: Profa. Dra. Gabriela Castellano
 titulo: Desvendando o cérebro humano através da Física
 instituicao:
 img: 1- Gabriella Castellano.png
