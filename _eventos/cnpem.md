@@ -3,7 +3,7 @@ label: cnpem
 nome: Centro Nacional Pesquisa em Energia e Materiais
 titulo: Visita Técnica Virtual ao Centro Nacional Pesquisa em Energia e Materiais
 instituicao:
-img: cnpem.jpg
+img: Divulgação sirius.png
 link: "https://cnpem.br/"
 ---
 
