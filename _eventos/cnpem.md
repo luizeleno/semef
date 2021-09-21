@@ -1,7 +1,7 @@
 ---
 label: cnpem
-nome: Centro Nacional Pesquisa em Energia e Materiais
-titulo: Visita Técnica Virtual ao Centro Nacional Pesquisa em Energia e Materiais
+nome: Lucas Sanfelici
+titulo: Visita Técnica Virtual ao SIRIUS
 instituicao:
 img: Divulgação sirius.png
 link: "https://cnpem.br/"
